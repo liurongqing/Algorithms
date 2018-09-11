@@ -3,6 +3,9 @@
 > 通用的依然是算法思想
 
 
+<iframe height='265' scrolling='no' title='css 揭秘 - 灵活背景定位' src='//codepen.io/liurongqing/embed/oPNdBG/?height=265&theme-id=0&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/liurongqing/pen/oPNdBG/'>css 揭秘 - 灵活背景定位</a> by liurongqing (<a href='https://codepen.io/liurongqing'>@liurongqing</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
+
 ## 常用术语
 
 ### 算法复杂度
